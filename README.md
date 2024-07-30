@@ -1,1 +1,6 @@
-# movie-success-prediction
+# Movie-Success-Prediction-Using-Data-Mining
+My first repository on GitHub
+
+
+In this system we have developed a mathematical model for predicting the success of the movies. For doing this we have to develop a methodology in which the historical data of each component such as actor, actress, director, budget that influences the success or failure of a movie is given is due to weight age and then based on multiple thresholds calculated on the basis of descriptive statistics of dataset of each component it is given class flop, hit. Admin will add the film data.  Admin will add new movie data along with film crew details as well as release date of the new movie. Based on the weight age of historical data of each film the movie will be labeled as super hit, hit or flop. This system helps to find out whether the movie is super hit, hit, flop on the basis of historical data of actor, actress, music director, writer, director, marketing budget and release date of the new movie. If the movie releases on weekend, new movie will get higher weight age or if the movie releases on week days new movie will get low weight age. The factors such as actor, actress, director, writer, music director and marketing budget historical data of each component are calculated and movie success is predicted. This application helps to find out the review of the new movie. Due to this system, user can easily decide whether to book ticket in advance or not.User can predict the success of the movie before the release of movie.
+
